@@ -8,8 +8,10 @@ Dabei bieten wir ausschließlich authentische und authentifizierte Hausaufgaben 
 
 ## Credits
 <details>
-  <summury>Icons</summary>
+  <summary>Icons</summary>
  
 _Diese Icons benutzen wir auf unsere Website oder anderen Seiten, die mit uns in Verbindung stehen_
   
 <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+  </details>
