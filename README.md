@@ -11,7 +11,7 @@ No Time2Stress ist ein Onlineshop für Hausaufgaben, mit dem Ziel allen Zugriff 
 Wir zeichnen uns besonders dadurch aus, dass wir eine der größten Datenbanken für Hausaufgaben haben und somit nicht nur mehre Jahrgangsstufen, sondern auch mehrere Qualitätsstufen abdecken. <br>
 In naher Zukunft ist ebenfalls eine größere Kompatibilität mit weiteren Schulformen und Bundesländern geplant. 
 
-### Wie viel Kosten eure Hausaufgaben?
+### Wie viel Kosten unsere Lösungen?
 
 Auf unsere Website wird es kostenlose und kostenpflichtige Lösungen zu erwerben geben.<br><br>
 <b>Kostenlose</b> Lösungen werden für immer kostenlos bleiben und stehen jedem zur Verfügung.<br>
