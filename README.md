@@ -1,4 +1,6 @@
-# NoTime2Stress Website
+#<font="red">DIESES PROJEKT BEFINDET SICH IMMER NOCH IN ENTWICKLUNG. <b>ES GIBT KEIN EST</>
+
+## NoTime2Stress Website
 
 Ein Online-Store für diejenigen, die keine Zeit dazu haben ihre Hausaufgaben zu machen, Hilfe in der Schule brauchen, oder simpel einfach keine Lust auf Hausaufgaben haben. Oberstes Ziel beim Store ist es ein möglichst unkomplizierten, sicheren und schnellen Zugriff auf Hausaufgaben zu ermöglichen. 
 
@@ -13,10 +15,7 @@ In naher Zukunft ist ebenfalls eine größere Kompatibilität mit weiteren Schul
 
 ### Wie viel Kosten unsere Lösungen?
 
-Auf unsere Website wird es kostenlose und kostenpflichtige Lösungen zu erwerben geben.<br><br>
-<b>Kostenlose</b> Lösungen werden für immer kostenlos bleiben und stehen jedem zur Verfügung.<br>
-Da die Website im Moment noch im Aufbau ist, lassen sich die Preise für <b>kostenpflichtige</b> Lösungen noch nicht endgültig festlegen. Dennoch gehen wir im Augenblick davon aus, dass der Preis zwischen 2 € und 15 € liegen wird. 
-
+<b>Alle unsere Lösungen</b> werden <b>umsonst</b> angeboten.
 
 ## Social Media
 
